@@ -1,7 +1,7 @@
 # 谢天玮的介绍页面
 
 ## 头像
-<img src="https://cdn.jsdelivr.net/gh/minglinxuan/txl/t/xtw.jpg" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/minglinxuan/txl/t/xtw.jpeg" width="20%">
 
 ## 人物信息
 
