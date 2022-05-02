@@ -1,8 +1,9 @@
 # 朱洽轩的介绍页面
+## 头像
 
-<img src="
-[1]: https://cdn.jsdelivr.net/gh/minglinxuan/txl/t/zqx.jpg" width = "200" height = "200"  /><br>
-## 规格
+<img src="https://cdn.jsdelivr.net/gh/minglinxuan/txl/t/zqx.jpg" width="20%">
+
+## 产品信息
  - 名字：MingLin
  - 性状：男
  - 净重：
