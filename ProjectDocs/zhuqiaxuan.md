@@ -4,6 +4,7 @@
 <img src="https://cdn.jsdelivr.net/gh/minglinxuan/txl/t/zqx.jpg" width="20%">
 
 ## 产品信息
+
  - 名字：MingLin
  - 性状：男
  - 净重：
@@ -12,7 +13,6 @@
  - 生产地址:广东东莞
  - 保质期：50年
 
-特征
---
+## 特征
 
  - 既不会唱也不会跳更不会rap
