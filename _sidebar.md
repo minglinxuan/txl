@@ -4,7 +4,12 @@
   * [项目介绍](/jieshao/page1.md) <!--注意这里是相对路径-->
   * [作者介绍](/jieshao/page2.md)
 * Teachers
-  * [班主周](/teacher/zhou.md)
+  * [班主周老师](/teacher/zhou.md)
+  * [数学杨老师](/teacher/shuxuelaoshi.md)
+  * [英语杨老师](/teacher/yingyulaoshi.md)
+  * [物理朱老师](/teacher/wulilaoshi.md)
+  * [地理杨老师](/teacher/dililaoshi.md)
+  * [生物王老师](/teacher/shengwulaoshi.md)
 * Students
   * [朱洽轩](/ProjectDocs/zhuqiaxuan.md)
   * [谢天玮](/ProjectDocs/xietianwei.md)
