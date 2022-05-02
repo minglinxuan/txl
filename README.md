@@ -1,3 +1,3 @@
-# Headline
+# 来啦？
 
-> An awesome project.
+> 点击左侧的导航查看同学录吧
