@@ -1,7 +1,7 @@
 # 朱洽轩的介绍页面
 
-
-![朱洽轩头像][1]
+<img src="
+[1]: https://cdn.jsdelivr.net/gh/minglinxuan/txl/t/zqx.jpg" width = "200" height = "200"  /><br>
 ## 规格
  - 名字：MingLin
  - 性状：男
@@ -15,4 +15,3 @@
 --
 
  - 既不会唱也不会跳更不会rap
-[1]: https://cdn.jsdelivr.net/gh/minglinxuan/txl/t/zqx.jpg
