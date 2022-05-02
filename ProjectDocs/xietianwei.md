@@ -1,11 +1,11 @@
-# 谢添炜的介绍页面
+# 谢添玮的介绍页面
 
 ## 头像
 <img src="https://cdn.jsdelivr.net/gh/minglinxuan/txl/t/xtw.jpeg" width="20%">
 
 ## 人物信息
 
- - 名字：谢添炜
+ - 名字：谢添玮
  - 性别：男
  - 外号：飞机✈，特种兵……
  - 出生日期：2004.09.06

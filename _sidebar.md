@@ -15,4 +15,9 @@
   * [陈思烨](/ProjectDocs/chensiye.md)
   * [吴扬恺](/ProjectDocs/wuyangkai.md)
   * [李枫桐](/ProjectDocs/lifengtong.md)
+  * [张烁航](/ProjectDocs/zhangshuohang.md)
+  * [黄妙琪](/ProjectDocs/huangmiaoqi.md)
+  * [刘俊林](/ProjectDocs/liujunlin.md)
+  * [罗瑾瑾](/ProjectDocs/luojinjin.md)
+
 
