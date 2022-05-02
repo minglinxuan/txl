@@ -15,4 +15,4 @@
 --
 
  - 既不会唱也不会跳更不会rap
-[1]: https://cdn.jsdelivr.net/gh/minglinxuan/txl/1.jpg
+[1]: https://cdn.jsdelivr.net/gh/minglinxuan/txl/t/zqx.jpg
