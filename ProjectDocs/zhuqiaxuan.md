@@ -5,7 +5,7 @@
 <img src="https://cdn.jsdelivr.net/gh/minglinxuan/txl/t/zqx.jpg" width="20%">
 
 ## 产品信息
-<img src="https://cdn.jsdelivr.net/gh/minglinxuan/txl/t/zhuqiaxuan.jpg" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/minglinxuan/txl/t/zhuqiaxuan.jpg" width="85%">
 
  - 名字：朱洽轩
  - 性状：男
