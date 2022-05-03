@@ -16,6 +16,7 @@
   * [郑子琪](/ProjectDocs/zhengziqi.md)
   * [林钰灵](/ProjectDocs/linyuling.md)
   * [陈庚勋](/ProjectDocs/chengengxun.md)
+  * [陈惠敏](/ProjectDocs/chenhuiming.md)
   * [林奕迅](/ProjectDocs/linyixun.md)
   * [陈思烨](/ProjectDocs/chensiye.md)
   * [吴扬恺](/ProjectDocs/wuyangkai.md)
@@ -27,5 +28,13 @@
   * [黄源帆](/ProjectDocs/huangyuanfan.md)
   * [李佳勇](/ProjectDocs/lijiayong.md)
   * [田婉欣](/ProjectDocs/tianwanxin.md)
+  * [庄佳耿](/ProjectDocs/zhuangjiageng.md)
+  * [黄梓淳](/ProjectDocs/huangzichun.md)
+  * [蔡博炜](/ProjectDocs/caibowei.md)
+  * [黄佳豪](/ProjectDocs/huangjiahao.md)
+  * [丁培烁](/ProjectDocs/dingpeishuo.md)
+  * [谢俊源](/ProjectDocs/xiejunyuan.md)
+  * [林浩航](/ProjectDocs/linhaohang.md)
+  * [陈伊宁](/ProjectDocs/chenyining.md)
 
 
